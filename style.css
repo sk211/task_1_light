@@ -1,0 +1,22 @@
+body h2 {
+    text-align: center;
+    padding-top: 20px
+}
+
+.main-containt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+}
+
+.main-containt img {
+    width: 180px;
+    height: 220px;
+}
+
+h5 {
+    text-align: center;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
